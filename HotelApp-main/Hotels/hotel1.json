@@ -1,0 +1,1 @@
+{"id":1,"name":"Hotel Ramada","latitude":46.764654252624204,"longitude":23.598674125224626,"rooms":[{"roomNumber":210,"type":2,"price":200,"available":true},{"roomNumber":125,"type":1,"price":350,"available":true},{"roomNumber":87,"type":1,"price":300,"available":false}]}
